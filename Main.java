@@ -103,7 +103,7 @@ public class Main {
             System.out.println();
         }
     }
-
+      
     public static void pulaLinhas() {
         for (int i = 0; i < 2; i++)
             System.out.println();
